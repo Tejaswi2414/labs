@@ -1,4 +1,4 @@
-scenario 1: Create Empty Local repository & add some files, modify files then add to git staging area & commit all changes together
+scenario 1: Create Empty Local repository & add some files, modify files and then add to git staging area & commit all changes together and do changes
 
 	mkdir ProjectA ; cd ProjectA
 	git init ( will initialize the empty project if the directory is empty )
